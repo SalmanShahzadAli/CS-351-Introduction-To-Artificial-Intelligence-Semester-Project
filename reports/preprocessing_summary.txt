@@ -1,0 +1,11 @@
+PREPROCESSING SUMMARY
+============================================================
+
+original_shape: (283726, 31)
+processed_shape: (283726, 31)
+train_samples: 198608
+val_samples: 42559
+test_samples: 42559
+fraud_percentage_train: 0.16665995327479255
+fraud_percentage_val: 0.1668272280833666
+fraud_percentage_test: 0.1668272280833666
